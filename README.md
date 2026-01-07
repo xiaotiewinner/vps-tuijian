@@ -1,5 +1,5 @@
 # 高性价比国内外VPS/云服务器推荐【附优惠码】 2025/6/14更新
-**本文不定期更新，敬请收藏。（本次更新时间：2025年6月14日13时29分）**
+**本文不定期更新，敬请收藏。（本次更新时间：2026年1月7日23时29分）**
 ## 前言
 做开发的，做运维的，搞NAS的，喜欢研究点东西的，总得有一台自用的云服务器。
 然，我观大厂总是套路满满，遂开始研究稳定小厂，也就有了这篇文章。
@@ -13,28 +13,31 @@
 - 如果您是用来做内网穿透，那么建议选择国内线路（因为延迟和稳定性最重要）。如果懒得备案又不想带端口号访问自己发布的网站，那么优先选择HK线路VPS。
 
 ## 国内云服务器/VPS推荐
-### 一、[雨云](https://www.rainyun.com/xiaotie_ "雨云")：国内线路首选
-官网地址：[https://www.rainyun.com/](https://www.rainyun.com/xiaotie_ "https://www.rainyun.com/")
-##### <span style="color:red">各位点链接进去注册账号时务必在优惠码一栏填写`xiaotie`，否则无法享受内部优惠。</span>
-个人点评：**算是老厂家了，配置给的足，价格也便宜，最重要的一点是线路稳定，同时优惠力度很大。**
+### 一、[雨云](https://www.rainyun.com/xiaotie_?s=bky "雨云")
+官网地址：[https://www.rainyun.com/](https://www.rainyun.com/xiaotie_?s=bky "https://www.rainyun.com/")
+
+优惠码：`xiaotie`
+
+**只有注册时可以绑定优惠码，所以请务必点击本页面链接进入雨云注册账号**，使用优惠码注册后绑定微信可获得所有云服务器的5折券，如果你对物理机有需求，那么这张5折券的作用将会拉满。
 
 雨云成立于 2018年， 是具有自主知识产权的国产云计算服务提供商。 雨云为广大用户提供简单易用、便宜实惠、可信赖的云产品。 主营包括云服务器、裸金属物理机、虚拟主机、游戏云、对象存储、CDN内容分发等广受好评的云服务产品。雨云是国内为数不多的自主开发财务及产品系统的厂商，成立至今服务国内外数十万名客户，包括学生、开发者、企业。持有国家工信部颁发的《增值电信业务经营许可证》ISP证、IDC证、CDN证。
 
 可7天内无理由退款（每个账号限3次），云服务器/游戏云产品可1元试用一天（每款限1次，部分较贵的产品试用价格高一点）。
 
-所有配置，**首月5折，3个月9折，半年付8折，年付7折**，再加上我给的优惠券，最低做到<span style="color:red">**4.5**</span>折。
-**为方便你们计算，下面表格中我仅列出<span style="color:red">原价</span>，看起来不便宜，但是你们实际购买时会便宜很多。**
+所有配置，**首月5折，3个月9折，半年付8折，年付7折**，在这个基础上加上我的代理优惠价格<span style="color:red">**（6.5折）**</span>，最低做到<span style="color:red">**3.25**</span>折。
+**为方便你们计算，下面表格中我仅列出<span style="color:red">原价</span>。**
 
 下面我们来看看部分配置表，以价格从小到大排列：
 | 区域 | 线路 | CPU | 内存 | 带宽 | 月流量 | 硬盘 | 价格/月 |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| 重庆BGP【公测】 | NAT共享 10端口可用 | 1核 | 1G | 30兆上传 100兆下载 | 200G | 30-2000G弹性 | ￥19 |
 | 江苏宿迁 | NAT共享 10端口可用 | 1核 | 1G | 10兆上传 10兆下载 | **无限** | 30-250G弹性 | ￥22 |
 | 中国香港 | CN2+CMI+CUG 全国平均延迟35ms | 2核 | 2G | 5兆上传 5兆下载 | **无限** | 30-2000G弹性 | ￥33 |
 | 浙江宁波 | 100G电信普防 | 2核 | 2G | 100兆上传 100兆下载 | 1024G | 30-2000G弹性 | ￥60 |
 | 中国香港 | CN2+CMI+CUG 全国平均延迟35ms | 4核 | 4G | 10兆上传 10兆下载 | **无限** | 30-2000G弹性 | ￥64 |
 | 浙江宁波 | 100G电信普防 | 2核 | 4G | 200兆上传 200兆下载 | 1024G | 30-2000G弹性 | ￥68 |
 | 浙江宁波 | 100G电信普防 | 2核 | 4G | 20兆上传 20兆下载 | **无限** | 30-2000G弹性 | ￥68 |
-| 广东广州【新】 | 100G电信普防 | 2核 | 2G | 200兆上传 200兆下载 | **无限** | 30-2000G弹性 | ￥80 |
+| 广东广州 | 100G电信普防 | 2核 | 2G | 200兆上传 200兆下载 | **无限** | 30-2000G弹性 | ￥80 |
 | 浙江宁波 | 100G电信普防 | 4核 | 8G | 300兆上传 300兆下载 | 1024G | 30-2000G弹性 | ￥98 |
 | 浙江宁波 | 100G电信普防 | 8核 | 16G | 500兆上传 500兆下载 | 1024G | 30-2000G弹性 | ￥168 |
 | 浙江宁波 | 10G BGP三线普防 | 2核 | 2G | 100兆上传 100兆下载 | 1024G | 30-2000G弹性 | ￥230 |
@@ -46,27 +49,445 @@
 * **所有VPS支持七天无理由退订。**
 * **月流量次月不清零，自动累加，流量用完后限至5M，额外流量按300G/15元，1024G/35元。**
 
-### 二、[赔钱云](https://www.peiqianyun.com/aff/VYATXTZQ "赔钱云")：内网穿透首选
-官网地址：[https://www.peiqianyun.com/](https://www.peiqianyun.com/aff/VYATXTZQ "https://www.peiqianyun.com/")
+另外雨云出了一些新的好玩的东西，比如云应用商店、CDN和对象存储等，我挨个玩了一下，感觉蛮不错蛮实用的。
 
-这家是新上市的，口号是“宁可赔钱，也要低价”，不过。。我觉得嘛。。
-提供的产品主要是**共享IP NAT型，提供50个可用端口**，还是比较适合我们拿来做内网穿透的。
+### 二、[浪浪云](https://langlangy.cn/?i475b52)
+官网地址：[https://langlangy.cn/](https://langlangy.cn/?i475b52 "https://langlangy.cn/")
 
+优惠码：`475b52`
+
+**只有注册时可以绑定优惠码**
+
+浪浪云成立于2019年，隶属于河北飓浪科技有限公司旗下云计算品牌，致力于计算、存储、网络，安全等基础性的IT领域的持续开发，依托多年来技术契累的资源整合能力，为各行业客户提供不同方式的结构性解决方案。提供独立IP、共享NAT云服务器、高端游戏云服务器、显卡云服务器、容器云、裸金属物理机、高防CDN、域名注册，硬件/设备托管等一系列云服务产品。
+
+以下列出部分配置，价格由低到高：
 | 区域 | 线路 | CPU | 内存 | 带宽 | 月流量 | 硬盘 | 价格/月 |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 湖北 | 共享NAT 50端口可用 | 2核 | 8G | 5兆上传 100兆下载 | **无限** | 50G SSD | ￥10 |
-| 湖北 | 共享NAT 50端口可用 | 4核 | 16G | 10兆上传 100兆下载 | **无限** | 60G SSD | ￥20 |
+| 湖北襄阳NAT | 电信 | 2核 | 2G | 30兆上传 100兆下载 | 1T | 45G | ￥12.75 |
+| 江苏宿迁NAT | <span style="color: red;">BGP三网优化</span> | 2核 | 2G | 30兆上传 100兆下载 | 1T | 40G | ￥15.30 |
+| 浙江轻量 | 电信 | 2核 | 2G | 30兆上传 100兆下载 | 500G | 70G | ￥28 |
+| 浙江轻量 | 电信 | 2核 | 4G | 30兆上传 100兆下载 | 500G | 70G | ￥35 |
+| 浙江宁波游戏云NAT | 电信 | 8275CL 2核 | 4G | 10兆上传 100兆下载 | 无限 | 40G | ￥36 |
+| 浙江大带宽独立IP | 电信 | 2核 | 2G | 300兆上传 500兆下载 | 1T | 65G | ￥40 |
+| 山东枣庄游戏云NAT | <span style="color: red;">BGP三网优化</span> | AMD 9950X 2核 | 4G | 10兆上传 100兆下载 | 无限 | 100G | ￥67.9 |
+| 多地区物理机托管 1U/2U/4U | 电信/BGP | - | - | 30兆 - 50兆 | 无限 | - | ￥300 - 500 |
 
 **注：**
-* **所有机器支持免费试用一天，24小时内可退款。不满意支持无理由随时按天退款。**
+* **季付、半年付、年付根据地区不同折扣也不同。**
+* **多套餐带宽、流量支持自定义选配。**
 
 ## 海外云服务器/VPS推荐
-### 一、[狗云](https://www.dogyun.com/?ref=xiaotie "狗云")：国外线路首选
+### 零、[BanWaGong](https://bwh81.net/aff.php?aff=78542)：<span style="color: red;">顶级国外线路</span>
+官网地址：[https://bwh81.net/](https://bwh81.net/aff.php?aff=78542 "https://bwh81.net/")
+
+相信不用过多介绍了， `BanWaGong` 提供的线路全球顶级，缺点是价格较高，适合高端用户或企业使用。
+
+在购买页面可以选择的支付方式如下：
+* PayPal
+* Alipay：支付宝
+* Credit Card (Stripe)：信用卡
+* WeChat：微信支付
+
+##### 1. Basic VPS 套餐
+<table>
+  <tr>
+    <th>内存</th>
+    <th>CPU</th>
+    <th>硬盘</th>
+    <th>月流量</th>
+    <th>带宽</th>
+    <th>机房</th>
+    <th>价格</th>
+    <th>链接</th>
+  </tr>
+  <tr>
+    <td>1GB</td>
+    <td>2核</td>
+    <td>20GB</td>
+    <td>1TB</td>
+    <td>1Gbps</td>
+    <td rowspan="6"><strong>DC8 ZNET</strong><br>DC2 AO<br>DC4 MCOM<br>美国弗里蒙特<br>美国新泽西<br>美国纽约<br>荷兰阿姆斯特丹<br>加拿大温哥华</td>
+    <td>$49.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=44" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2GB</td>
+    <td>3核</td>
+    <td>40GB</td>
+    <td>2TB</td>
+    <td>1Gbps</td>
+    <td>$52.99/半年<br>$99.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=45" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>4GB</td>
+    <td>4核</td>
+    <td>80GB</td>
+    <td>3TB</td>
+    <td>1Gbps</td>
+    <td>$19.99/月<br>$199.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=46" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>8GB</td>
+    <td>5核</td>
+    <td>160GB</td>
+    <td>4TB</td>
+    <td>1Gbps</td>
+    <td>$39.99/月<br>$399.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=47" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>16GB</td>
+    <td>6核</td>
+    <td>320GB</td>
+    <td>5TB</td>
+    <td>1Gbps</td>
+    <td>$79.99/月<br>$799.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=48" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>24GB</td>
+    <td>7核</td>
+    <td>480GB</td>
+    <td>6TB</td>
+    <td>1Gbps</td>
+    <td>$119.99/月<br>$1199.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=49" target="_blank">购买</a>
+    </td>
+  </tr>
+</table>
+
+##### 2. E-Commerce VPS 套餐
+<table>
+  <tr>
+    <th>方案</th>
+    <th>内存</th>
+    <th>CPU</th>
+    <th>硬盘</th>
+    <th>月流量</th>
+    <th>带宽</th>
+    <th>机房</th>
+    <th>价格</th>
+    <th>链接</th>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>1GB</td>
+    <td>2核</td>
+    <td>20GB</td>
+    <td>1TB</td>
+    <td>2.5Gbps</td>
+    <td rowspan="10"><span style="color: red; font-weight: bold;">DC6 CN2 GIA-E<br>DC9 CN2 GIA<br>日本软银 JPOS_1<br>荷兰 EUNL_9<br>圣何塞<br>CN2 GIA<br>加拿大 CN2 GIA</span><br>DC3 CN2<br>DC8 ZNET<br>DC2 AO<br>DC4 MCOM<br>弗里蒙特 FMT<br>新泽西 USNJ<br>纽约 USNY_2<br>纽约 USNY_6<br>荷兰 EUNL_2<br>加拿大 CABC_1<br>迪拜 AEDXB_1</td>
+    <td><span style="color: red; font-weight: bold;">$49.99/季度<br>$169.99/年</span></td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=87" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>2GB</td>
+    <td>3核</td>
+    <td>40GB</td>
+    <td>2TB</td>
+    <td>2.5Gbps</td>
+    <td>$89.99/季度<br>$299.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=88" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>4GB</td>
+    <td>4核</td>
+    <td>80GB</td>
+    <td>3TB</td>
+    <td>2.5Gbps</td>
+    <td>$56.99/月<br>$549.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=89" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>8GB</td>
+    <td>6核</td>
+    <td>160GB</td>
+    <td>5TB</td>
+    <td>5Gbps</td>
+    <td>$86.99/月<br>$879.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=90" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>16GB</td>
+    <td>8核</td>
+    <td>320GB</td>
+    <td>8TB</td>
+    <td>5Gbps</td>
+    <td>$159.99/月<br>$1599.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=91" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>32GB</td>
+    <td>10核</td>
+    <td>640GB</td>
+    <td>10TB</td>
+    <td>10Gbps</td>
+    <td>$289.99/月<br>$2759.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=92" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>12TB</td>
+    <td>10Gbps</td>
+    <td>$549.99/月<br>$5399.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=93" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>15TB</td>
+    <td>10Gbps</td>
+    <td>$679/月<br>$6790/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=160" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>20TB</td>
+    <td>10Gbps</td>
+    <td>$899/月<br>$8999/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=161" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>CN2 GIA-E</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>12TB</td>
+    <td>10Gbps</td>
+    <td>$749.99/月<br>$7599.00/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=148" target="_blank">购买</a>
+    </td>
+  </tr>
+</table>
+
+##### 3. Ultra VPS 套餐
+建议选择香港 CN2 GIA 或 日本大阪 CN2 GIA 套餐。
+
+**中国香港 CN2 GIA 套餐：**
+<table>
+  <tr>
+    <th>方案</th>
+    <th>内存</th>
+    <th>CPU</th>
+    <th>硬盘</th>
+    <th>月流量</th>
+    <th>带宽</th>
+    <th>机房</th>
+    <th>价格</th>
+    <th>链接</th>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>2GB</td>
+    <td>2核</td>
+    <td>40GB</td>
+    <td>0.5TB</td>
+    <td>1Gbps</td>
+    <td rowspan="6">中国香港 CN2 GIA<br>日本东京 CN2 GIA<br>新加坡 CN2 GIA</td>
+    <td>$89.99/月<br>$899.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=95" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>4GB</td>
+    <td>4核</td>
+    <td>80GB</td>
+    <td>1TB</td>
+    <td>1Gbps</td>
+    <td>$155.99/月<br>$1559.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=96" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>8GB</td>
+    <td>6核</td>
+    <td>160GB</td>
+    <td>2TB</td>
+    <td>1Gbps</td>
+    <td>$299.99/月<br>$2999.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=97" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>16GB</td>
+    <td>8核</td>
+    <td>320GB</td>
+    <td>4TB</td>
+    <td>1Gbps</td>
+    <td>$589.99/月<br>$5899.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=98" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>32GB</td>
+    <td>10核</td>
+    <td>640GB</td>
+    <td>6TB</td>
+    <td>1Gbps</td>
+    <td>$989.99/月<br>$9989.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=122" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>HK</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>8TB</td>
+    <td>1Gbps</td>
+    <td>$1889.99/月<br>$18989.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=124" target="_blank">购买</a>
+    </td>
+  </tr>
+</table>
+
+**日本大阪 CN2 GIA 套餐：**
+<table>
+  <tr>
+    <th>方案</th>
+    <th>内存</th>
+    <th>CPU</th>
+    <th>硬盘</th>
+    <th>月流量</th>
+    <th>带宽</th>
+    <th>机房</th>
+    <th>价格</th>
+    <th>链接</th>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>2GB</td>
+    <td>2核</td>
+    <td>40GB</td>
+    <td>0.5TB</td>
+    <td>1.5Gbps</td>
+    <td rowspan="6" style="color: red; font-weight: bold;">日本大阪 CN2 GIA</td>
+    <td style="color: red; font-weight: bold;">$49.99/月<br>$499.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=134" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>4GB</td>
+    <td>4核</td>
+    <td>80GB</td>
+    <td>1TB</td>
+    <td>1.5Gbps</td>
+    <td>$86.99/月<br>$869.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=135" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>8GB</td>
+    <td>6核</td>
+    <td>160GB</td>
+    <td>2TB</td>
+    <td>1.5Gbps</td>
+    <td>$165.99/月<br>$1665.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=136" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>16GB</td>
+    <td>8核</td>
+    <td>320GB</td>
+    <td>4TB</td>
+    <td>1.5Gbps</td>
+    <td>$329.99/月<br>$3279.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=137" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>32GB</td>
+    <td>10核</td>
+    <td>640GB</td>
+    <td>6TB</td>
+    <td>1.5Gbps</td>
+    <td>$549.99/月<br>$5549.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=138" target="_blank">购买</a>
+    </td>
+  </tr>
+  <tr>
+    <td>OSAKA</td>
+    <td>64GB</td>
+    <td>12核</td>
+    <td>1280GB</td>
+    <td>8TB</td>
+    <td>1.5Gbps</td>
+    <td>$1059.99/月<br>$10559.99/年</td>
+    <td>
+      <a href="https://bwh81.net/aff.php?aff=78542&pid=139" target="_blank">购买</a>
+    </td>
+  </tr>
+</table>
+
+### 一、[狗云](https://www.dogyun.com/?ref=xiaotie "狗云")：性价比之选
 官网地址：[https://www.dogyun.com/](https://www.dogyun.com/?ref=xiaotie "https://www.dogyun.com/")
 
 国人运营，2012年开始涉及虚拟主机，2014年涉及云服务器，于 2019 年成立新品牌“狗云”，全线云服务器产品均采用成熟的 KVM虚拟化技术，配合自主研发简体中文易操作控制面板，能为您提供成熟的云服务器产品，高可用的自主管理。
-
-有人说为啥不用banwagon呢？很简单，因为我用不起。。banwagong的线路确实顶级，不过狗云也算我用过最接近banwagong的了，主要是价格合适嘛。。。
 
 | 区域 | 线路 | CPU | 内存 | 带宽 | 月流量 | 硬盘 | 价格 |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
@@ -97,7 +518,7 @@
 | 美国洛杉矶 | 三网直连 CN2+9929+CMIN2 | 1核 | 1G | 300兆上传 300兆下载 | 300G | 10G | ￥35/月 ￥350/年 |
 
 **注：**
-* **本人买了韩国高宽线路，还是可以的，日常使用没问题，比如挂个网站什么的。**
+* **本人买了韩国高宽线路，还是可以的，日常使用没问题，比如挂个网站什么的。 **
 
 ### 三、[野草云](https://my.yecaoyun.com/aff.php?aff=6126 "野草云")
 官网地址：[https://www.yecaoyun.com/](https://my.yecaoyun.com/aff.php?aff=6126 "https://www.yecaoyun.com/")
@@ -114,16 +535,6 @@
 **注：**
 * **主要是便宜，挂网站也行，某些时候可能会有延迟，最好自己试用一下，购买24小时内不满意发工单即可按支付渠道退款。**
 
-## 自搭建的内网穿透服务提供
-有人可能不了解内网穿透，不知道是干啥用的，其实简单来说就是让你的本地设备获得公网IP，这里引用一下别人写的介绍文章：https://sspai.com/post/88937 。
+---
 
-本人后续也准备写一下内网穿透的服务器和客户端配置教程的，等回头有空的时候吧。
-
-考虑到有些老板不懂这方面的技术又没时间去研究，可以使用我提供的内网穿透服务器。
-
-目前提供以下两种配置：
-- 江苏镇江电信 30兆带宽 5元/5个端口/月 50元/5个端口/年。
-- 浙江宁波电信 200兆带宽 10元/5个端口/月 100元/5个端口/年。
-
-闲鱼关注：**小铁winner**，购买链接：https://h5.m.goofish.com/item?id=938506476210 。
-走平台更放心哦。
+本人工作原因一直要用到云服务器，所以边用边看，本文随时更新...
