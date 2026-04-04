@@ -3,6 +3,8 @@
 
 更新时间：2026年4月4日
 
+我的个人博客：https://www.xiaotiewinner.com
+
 `2H4G6M`指的是：2核CPU 4G内存 6兆电信上传带宽（下载带宽≥上传带宽），`4H4G100M600G`指的是：4核CPU 4G内存 100兆带宽 600G月流量
 
 如果在 [阿里云](https://www.aliyun.com/minisite/goods?userCode=w6coofwc) / [腾讯云](https://curl.qcloud.com/9OEmWsoX) / [雨云](https://www.rainyun.com/xiaotie_?s=bbs) 通过我的链接注册并购买服务器，金额超过500（**注意：需要是新注册的账号**），可添加我的QQ:`1271287728`，免费提供建站、游戏服、内网穿透等相关服务
@@ -54,5 +56,3 @@
 
 个人工作原因仍在不停搜罗和测评全网性价比最高的云服务器，保持更新，敬请关注
 
-
-本人工作原因一直要用到云服务器，所以边用边关注，本文随时更新...
