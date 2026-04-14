@@ -4,7 +4,7 @@
 
 更新时间：2026年4月13日
 
-`2H4G6M`指的是：2核CPU 4G内存 6兆电信上传带宽（下载带宽≥上传带宽），`4H4G100M600G`指的是：4核CPU 4G内存 100兆带宽 600G月流量（用完可以单独充值流量）
+`2H4G6M`指的是：2核CPU 4G内存 6兆电信上传带宽（下载带宽≥上传带宽），`4H4G100M600G`指的是：4核CPU 4G内存 100兆带宽 600G月流量
 
 如果在 [阿里云](https://www.aliyun.com/minisite/goods?userCode=w6coofwc) / [腾讯云](https://curl.qcloud.com/9OEmWsoX) / [雨云](https://www.rainyun.com/xiaotie_?s=bbs) 通过我的链接注册并购买服务器，金额超过500（**注意：需要是新注册的账号**），可添加我的QQ:`1271287728`，免费提供建站、游戏服、内网穿透等相关服务
 
@@ -18,7 +18,7 @@
 ## 国内云服务器
 
 * [阿里云](https://www.aliyun.com/minisite/goods?userCode=w6coofwc) [2H2G200M(峰值)](https://www.aliyun.com/daily-act/ecs/activity_selection?userCode=w6coofwc)(**须新账号首单**) **68元/年**，2H2G3M 99元/年（续费同价），2H2G200M(峰值) 459元/年，**2H1G200M(峰值) 34元/月 408元/年 1080元/3年**，4H8G200M(峰值) 220元/月 2244元/年 5940元/3年，通过我的链接注册，在厂商的基础上享有9折优惠
-* [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=11447&cps_key=cc2c1e1bd1aaf40fd69457e34f97c4bb) **2H2G3M 68元/年（需新用户首购）**，**4H4G3M 99元/年 353元/3年**，2H4G6M 528元/3年（购买后免费升级4H4G6M），4H8G5M 450元/年，**4H8G10M 630元/年**。
+* [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=11447&cps_key=cc2c1e1bd1aaf40fd69457e34f97c4bb) **2H2G3M 68元/年（需新用户首购）**，**4H4G3M 79元/年（需新用户首购）**，2H2G4M 353元/3年，2H4G6M 528元/3年（购买后免费升级4H4G6M），4H8G5M 450元/年，**4H8G10M 630元/年**。
 **直达指南：上方"腾讯云"链接点进去，下滑看到 `优惠商品 NEW`，产品类型选择 `产品类型`**
 * [京东云](https://daili.jd.com/s?linkNo=6EHGGDICAOP3KDFEZKJVC4Q6H46MWGLOLJSGWETIAZFLMQ7NFATOKNEHCRBGLEK6MZNMYO3JVZEOLCHMJFEEBZXKTE) **2H2G3M200G 68元/年 398元/3年**，2H4G5M500G 158元/年 **528元/3年**，4H8G12M2000G 798元/年 2798元/3年
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [深圳BGP 2H2G5M](https://www.rainyun.com/rcs/xiaotie_?sp=EVDQCu) 48元/月 403元/年，[湖北十堰电信 4H4G100M1024G](https://www.rainyun.com/rcs/xiaotie_?sp=1tHgl3) 80元/月 672元/年，[湖北襄阳电信 2H2G10M](https://www.rainyun.com/rcs/xiaotie_?sp=HT0MT0) 50元/月 420元/年，[江苏宿迁BGP(NAT) 1H1G10M](https://www.rainyun.com/rcs/xiaotie_?sp=qg81P4) 22元/月 184元/年
