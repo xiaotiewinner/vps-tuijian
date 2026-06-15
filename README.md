@@ -2,7 +2,7 @@
 
 各厂商云服务器/VPS测评：https://bbs.xiaotiewinner.com/t/benchmark
 
-更新时间：2026年5月20日
+更新时间：2026年6月15日
 
 `2H4G6M`指的是：2核CPU 4G内存 6兆电信上传带宽（下载带宽≥上传带宽），`4H4G100M600G`指的是：4核CPU 4G内存 100兆带宽 600G月流量
 
@@ -24,7 +24,7 @@
 **直达指南：上方"腾讯云"链接点进去，下滑看到 `优惠商品 NEW`，产品类型选择 `产品类型`**
 * [京东云](https://daili.jd.com/s?linkNo=6EHGGDICAOP3KDFEZKJVC4Q6H46MWGLOLJSGWETIAZFLMQ7NFATOKNEHCRBGLEK6MZNMYO3JVZEOLCHMJFEEBZXKTE) **2H2G3M200G 68元/年 398元/3年**，2H4G5M500G 158元/年 **528元/3年**，4H8G12M2000G 798元/年 2798元/3年
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [浙江宁波 2H2G10M](https://www.rainyun.com/rcs/xiaotie_?sp=rVkzPV) 72元/月 604元/年，8H16G50M 188元/月 1579元/年，[深圳BGP 2H2G5M](https://www.rainyun.com/rcs/xiaotie_?sp=EVDQCu) 48元/月 403元/年，[湖北襄阳电信 2H2G10M](https://www.rainyun.com/rcs/xiaotie_?sp=HT0MT0) 50元/月 420元/年，[江苏宿迁BGP(NAT) 1H1G10M](https://www.rainyun.com/rcs/xiaotie_?sp=qg81P4) 22元/月 184元/年，通过我的链接注册首月5折，注册码`xiaotie`
-* [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 2H2G4M 65元/年，2H8G8M 156元/年，4H16G10M 330元/月
+* [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 2H2G4M 59元/年，[2H1G200M不限流量](https://www.ucloud.cn/site/active/kuaijiesale.html?cps_code=4ap7U6LI1SJCHCPbvxBx95) 30元/月
 * [浪浪云](https://langlangy.cn/?i475b52) 广州BGP 4H4G10M 62元/月 558.9元/年(75折)，8H16G10M 160元/月 1441元/年(75折)，湖北襄阳 2H2G30M600G 40.5元/月，江苏宿迁BGP 2H4G10M 136元/月，优惠注册码`475b52`
 * [莱卡云](https://www.lcayun.com/aff/QVKEZBDT) 江苏镇江 2H4G10M 58元/月 580元/年(83折)，北京BGP 4H4G10M 82.6元/月 908.6元/年(92折)
 * [北少云](https://www.beishaoidc.cn/aff/CTBLNMEY) 湖北高防 2H2G30M1024G 62元/月 595.2元/月，8H32G30M1024G 129元/月 1238.4元/年
@@ -34,7 +34,7 @@
 
 * [搬瓦工(BanWaGong)](https://bwh81.net/aff.php?aff=78542) 美国圣何塞CN2 GIA 2H1G2500M1024G 49.99美元/季 169.99美元/年，**中国香港CN2 GIA 2H2G1000M500G 89.99美元/月 899.99美元/年**，日本大阪CN2 GIA 2H2G1500M500G 49.99美元/月
 **搬瓦工的价格偏高但线路极稳，企业首选。建议选择CN2 GIA线路**
-* [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 中国台湾台北 1H1G30M1024G 71元/年 778元/3年，中国香港 1H1G30M200G 57元/年，越南 1H1G30M200G 61元/年
+* [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 中国台湾 [1H1G30M200G](https://www.ucloud.cn/site/active/tw-global.html?cps_code=4ap7U6LI1SJCHCPbvxBx95) 53元/年 2H2G30M600G 97元/年，中国香港 2H2G30M600G 83元/年，印度/越南 2H2G30M600G 83元/年
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [中国香港(CN2+CMI+CUG) 2H2G5M](https://www.rainyun.com/rcs/xiaotie_?sp=gELPer) 38元/月 319.2元/年，[日本东京(CT+CMI+CU) 2H2G8M](https://www.rainyun.com/rcs/xiaotie_?sp=sNZ463) 41元/月 344元/年，[美国洛杉矶(CMI+9929) 2H2G15M](https://www.rainyun.com/rcs/xiaotie_?sp=1rtEJB) 43元/月 361元/年
 * [野草云](https://my.yecaoyun.com/aff.php?aff=6126) 中国香港(BGP) 1H1G200M500G 99元/年，2H2G200M600G 118元/年，美国(优质BGP) 4H8G500M4096G 99元/月，中国香港(精品BGP) 4H8G15M 2独立IPv4 199元/月
 * [狗云](https://www.dogyun.com/?ref=xiaotie) 中国香港 1H1G50M300G 25元/月 250元/年，日本 1H1G100M300G 30元/月 300元/年，韩国 1H1G30M500G 25元/月 250元/年
@@ -61,9 +61,29 @@
 * [腾讯云](https://curl.qcloud.com/9OEmWsoX) DDoS高防 无限次防护 112,500元/年
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [湖北十堰 2H2G10M 200G电信防御](https://www.rainyun.com/rcs/xiaotie_?sp=1DdzlY) 60元/月，[江苏宿迁 2H2G15M 150G京东云防御](https://www.rainyun.com/rcs/xiaotie_?sp=o6CAm6) 180元/月，[日本东京 2H2G8M 300G高防(封UDP)](https://www.rainyun.com/rcs/xiaotie_?sp=Av2m8C) 66元/月，浙江宁波 48H32G35M 400G电信高防 2460元/月
 
+## 显卡云服务器
+
+* [UCloud](https://www.ucloud.cn/site/active/gpu.html?cps_code=4ap7U6LI1SJCHCPbvxBx95) RTX40系 16H32G2M 24G显存 9.9元/日 16H96G2M 48G显存 19.9元/日，RTX40高显存系 16H96G 48G显存（最多可附加8颗GPU） 1999元/月，RTX50系 16H96G 32G显存（最多可附加8颗GPU） 1899元/月，另有 Tesla P40、T4、V100 可选
+
+## 云端养虾 OpenClaw / Hermes
+
+* [阿里云](https://www.aliyun.com/activity/ecs/clawdbot?userCode=w6coofwc) Hermes / OpenClaw 一键部署 2H4G200M(峰值) 9元/月 199元/年
+* [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=6544&cps_key=cc2c1e1bd1aaf40fd69457e34f97c4bb&from=console) 分钟级部署 OpenClaw / Hermes / DeepSeek - TUI 4H4G3M 99元/年 2H4G5M 188/年，
+* [UCloud](https://www.ucloud.cn/site/active/openclaw?cps_code=4ap7U6LI1SJCHCPbvxBx95) 主流应用一键接入(飞书、企业微信、QQ、钉钉等) 2H2G4M1000G 59元/年，2H2G30M600G 83元/年
+
+## 大模型相关
+
+> 这个主题与云服务器无关，但最近确实有朋友问我大模型相关的服务，有这方面需求的朋友不在少数，所以一起发出来
+
+* [阿里云](https://www.aliyun.com/activity/hub/ai-innovation?userCode=w6coofwc) 开通阿里云百炼，免费获赠1亿+ tokens
+* [AstraFlow - UCloud](https://astraflow.ucloud.cn/modelverse/playground?cps_code=4ap7U6LI1SJCHCPbvxBx95) 囊括主流国内开源模型如 GLM 5.1、MinMax M3、Qwen 3.7 Max、Kimi 2.6等等，按量计费。
+* [其他国内外大模型厂商以及Coding Plan / Token Plan价值对比](https://www.xiaotiewinner.com/2026/364.html)
+
 ------
 
 ##### 更新履历
+- 2026年6月15日：
+[UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 更新UCloud专场相关内容，新增显卡云、云端养虾、大模型相关内容
 - 2026年5月20日：
 [雨云](https://www.rainyun.com/xiaotie_?s=bbs) 新增宁波线路，性价比不错
 - 2026年4月13日：
