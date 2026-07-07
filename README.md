@@ -43,6 +43,7 @@
 
 * [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=5878&cps_key=cc2c1e1bd1aaf40fd69457e34f97c4bb&from=console) 自带面板可一键部署 《我的世界》、《饥荒》十人套餐 新购用户294/年，老用户378/年，支持的游戏很多，这里就不一一列举了
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [浙江宁波 AMD 9950X 2H4G10M(MC可容纳12+人) 100G电信防御](https://www.rainyun.com/rgs/xiaotie_?sp=KLBW0G) 130元/月 1092元/年，[江苏宿迁BGP(NAT) AMD 9950X 2H4G10M(MC可容纳12+人) 共享150G防御](https://www.rainyun.com/rgs/xiaotie_?sp=NaHHea) 125元/月，[湖北十堰 INTEL 14900K 2H4G10M](https://www.rainyun.com/rgs/xiaotie_?sp=wWJGfV) 110元/月，[江苏宿迁BGP INTEL 14900K 4H8G10M](https://www.rainyun.com/rgs/xiaotie_?sp=oOZ3hU) 160元/月，雨云提供MCSM面板，可一键开服，支持Minecraft、泰拉瑞亚、Hytale、饥荒、幻兽帕鲁、僵尸毁灭工程、未转变者等
+* [莱卡云](https://www.lcayun.com/aff/QVKEZBDT) 自带游戏一键部署面板，支持上百款主流游戏
 * [阿里云](https://www.aliyun.com/minisite/goods?userCode=w6coofwc) 4H8G(MC可容纳10人) 422.9元/月
 * [京东云](https://daili.jd.com/s?linkNo=6EHGGDICAOP3KDFEZKJVC4Q6H46MWGLOLJSGWETIAZFLMQ7NFATOKNEHCRBGLEK6MZNMYO3JVZEOLCHMJFEEBZXKTE) 北京 4H8G5M500G 498元/年，4H32G10M2000G 1398元/年，因续费价格高建议选年付
 * [浪浪云](https://langlangy.cn/?i475b52) **枣庄(BGP) AMD 9950X 4H8G10M 140元/月 1680元/年(7折)**，14900K 4H8G10M 220元/月 2244元/年(85折)
