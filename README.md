@@ -2,7 +2,7 @@
 
 各厂商云服务器/VPS测评：https://bbs.xiaotiewinner.com/t/benchmark
 
-更新时间：2026年6月15日
+更新时间：2026年8月25日
 
 `2H4G6M`指的是：2核CPU 4G内存 6兆电信上传带宽（下载带宽≥上传带宽），`4H4G100M600G`指的是：4核CPU 4G内存 100兆带宽 600G月流量
 
@@ -12,6 +12,8 @@
 目前海外云服务器厂商排行第一的是[搬瓦工(BanWaGong)](https://bwh81.net/aff.php?aff=78542)
 
 如果有长期使用云服务器的需求，又嫌大厂太贵，个人推荐[雨云](https://www.rainyun.com/xiaotie_?s=bbs)（成立于2018年），服务相对小厂更稳定。所有产品季付9折、半年付8折、年付7折，且消费满1元返利12%（可提现），满800元返利20%，折扣叠加后最高享受56折进货。
+
+**[雨云八周年活动开启，官网全场8折优惠、游戏云季付全场6折。](https://www.rainyun.com/xiaotie_?s=bbs)**
 
 本文不定期更新，敬请收藏
 
@@ -83,6 +85,8 @@
 ------
 
 ##### 更新履历
+- 2026年8月25日：
+[雨云](https://www.rainyun.com/xiaotie_?s=bbs) 活动上新
 - 2026年6月15日：
 [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 更新UCloud专场相关内容，新增显卡云、云端养虾、大模型相关内容
 - 2026年5月20日：
@@ -94,3 +98,4 @@
 新增测评链接：https://bbs.xiaotiewinner.com/t/benchmark
 
 个人工作原因仍在不停搜罗和测评全网性价比最高的云服务器，保持更新，敬请关注
+
