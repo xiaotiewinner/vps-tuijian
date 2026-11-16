@@ -36,6 +36,8 @@
 
 * [搬瓦工(BanWaGong)](https://bwh81.net/aff.php?aff=78542) 美国圣何塞CN2 GIA 2H1G2500M1024G 49.99美元/季 169.99美元/年，**中国香港CN2 GIA 2H2G1000M500G 89.99美元/月 899.99美元/年**，日本大阪CN2 GIA 2H2G1500M500G 49.99美元/月
 **搬瓦工的价格偏高但线路极稳，企业首选。建议选择CN2 GIA线路**
+* [NoSLA Cloud](https://ccp.nosla.cloud/order/forms/a/c27703a3694673f8) [美国圣何塞双程CN2&9929&CMIN2 1H768M500M500G](https://ccp.nosla.cloud/order/main/packages/bf-sjc/?group_id=59&a=c27703a3694673f8) 439元/年 1H1.5G1000M1T 639元/年， [美国圣何塞双程CN2&9929&CMIN2 1H1G1000M1T](https://ccp.nosla.cloud/order/main/packages/sjc-pre-mon/?group_id=56&a=c27703a3694673f8) 65元/月 175.5/季 [日本东京双程CN2&9929&CMIN2 1H2G500M500G](https://ccp.nosla.cloud/order/main/packages/bf-sjc/?group_id=32&a=c27703a3694673f8) 214元/月
+**实测很稳，个人首选，很适合AI使用**
 * [UCloud](https://passport.ucloud.cn?cps_code=4ap7U6LI1SJCHCPbvxBx95) 中国台湾 [1H1G30M200G](https://www.ucloud.cn/site/active/tw-global.html?cps_code=4ap7U6LI1SJCHCPbvxBx95) 53元/年 2H2G30M600G 97元/年，中国香港 2H2G30M600G 83元/年，印度/越南 2H2G30M600G 83元/年
 * [雨云](https://www.rainyun.com/xiaotie_?s=bbs) [中国香港(CN2+CMI+CUG) 2H2G5M](https://www.rainyun.com/rcs/xiaotie_?sp=gELPer) 38元/月 319.2元/年，[日本东京(CT+CMI+CU) 2H2G8M](https://www.rainyun.com/rcs/xiaotie_?sp=sNZ463) 41元/月 344元/年，[美国洛杉矶(CMI+9929) 2H2G15M](https://www.rainyun.com/rcs/xiaotie_?sp=1rtEJB) 43元/月 361元/年
 * [野草云](https://my.yecaoyun.com/aff.php?aff=6126) 中国香港(BGP) 1H1G200M500G 99元/年，2H2G200M600G 118元/年，美国(优质BGP) 4H8G500M4096G 99元/月，中国香港(精品BGP) 4H8G15M 2独立IPv4 199元/月
@@ -68,23 +70,11 @@
 
 * [UCloud](https://www.ucloud.cn/site/active/gpu.html?cps_code=4ap7U6LI1SJCHCPbvxBx95) RTX40系 16H32G2M 24G显存 9.9元/日 16H96G2M 48G显存 19.9元/日，RTX40高显存系 16H96G 48G显存（最多可附加8颗GPU） 1999元/月，RTX50系 16H96G 32G显存（最多可附加8颗GPU） 1899元/月，另有 Tesla P40、T4、V100 可选
 
-## 云端养虾 OpenClaw / Hermes
-
-* [阿里云](https://www.aliyun.com/activity/ecs/clawdbot?userCode=w6coofwc) Hermes / OpenClaw 一键部署 2H4G200M(峰值) 9元/月 199元/年
-* [腾讯云](https://cloud.tencent.com/act/cps/redirect?redirect=6544&cps_key=cc2c1e1bd1aaf40fd69457e34f97c4bb&from=console) 分钟级部署 OpenClaw / Hermes / DeepSeek - TUI 4H4G3M 99元/年 2H4G5M 188/年，
-* [UCloud](https://www.ucloud.cn/site/active/openclaw?cps_code=4ap7U6LI1SJCHCPbvxBx95) 主流应用一键接入(飞书、企业微信、QQ、钉钉等) 2H2G4M1000G 59元/年，2H2G30M600G 83元/年
-
-## 大模型相关
-
-> 这个主题与云服务器无关，但最近确实有朋友问我大模型相关的服务，有这方面需求的朋友不在少数，所以一起发出来
-
-* [阿里云](https://www.aliyun.com/activity/hub/ai-innovation?userCode=w6coofwc) 开通阿里云百炼，免费获赠1亿+ tokens
-* [AstraFlow - UCloud](https://astraflow.ucloud.cn/modelverse/playground?cps_code=4ap7U6LI1SJCHCPbvxBx95) 囊括主流国内开源模型如 GLM 5.1、MinMax M3、Qwen 3.7 Max、Kimi 2.6等等，按量计费。
-* [其他国内外大模型厂商以及Coding Plan / Token Plan价值对比](https://www.xiaotiewinner.com/2026/364.html)
-
 ------
 
 ##### 更新履历
+- 2026年11月16日：
+[NoSLA Cloud](https://ccp.nosla.cloud/order/forms/a/c27703a3694673f8) 海外云上新，AI推荐使用
 - 2026年8月25日：
 [雨云](https://www.rainyun.com/xiaotie_?s=bbs) 活动上新
 - 2026年6月15日：
@@ -98,4 +88,3 @@
 新增测评链接：https://bbs.xiaotiewinner.com/t/benchmark
 
 个人工作原因仍在不停搜罗和测评全网性价比最高的云服务器，保持更新，敬请关注
-
